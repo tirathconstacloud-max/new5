@@ -1,0 +1,12 @@
+[
+    {
+     "app_name": "test app",
+     "client_id": "1la6epfj5q",
+     "client_secret": "d9fbcd677e",
+     "grant_type": "Authorization Code",
+     "response_type": "Code",
+     "redirect_uris": "https://react2.constacloud.com/handle-oauth-callback-restricted",
+     "scopes": "all",
+     "skip_authorization": 0
+    }
+]
