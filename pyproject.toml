@@ -4,9 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "my_universal_auth"
-authors = [
-    {name = "Your Name", email = "you@example.com"}
-]
+authors = [{name = "Tirath", email = "test@example.com"}]
 description = "Universal OAuth for Multiple Sites"
 requires-python = ">=3.10"
 dynamic = ["version"]
